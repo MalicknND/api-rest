@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+thead tr th {
+  padding: 10px 30px;
+  border-bottom: 1px solid black;
+  text-align: center;
+  text-decoration: none;
+}
+
+tbody tr td {
+  padding: 10px;
+  text-align: center;
+}
+
+table {
+  border: 2px solid black;
+  padding: 20px;
+}
